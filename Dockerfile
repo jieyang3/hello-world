@@ -1,2 +1,2 @@
-FROM redhat
+FROM centos:7
 MAINTAINER yy123@163.com
